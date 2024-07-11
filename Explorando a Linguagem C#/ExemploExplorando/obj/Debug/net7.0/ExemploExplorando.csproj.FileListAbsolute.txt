@@ -1,0 +1,29 @@
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.AssemblyInfo.cs
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.deps.json
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.runtimeconfig.json
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.dll
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.pdb
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.dll
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/refint/ExemploExplorando.dll
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.pdb
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.genruntimeconfig.cache
+/home/brenoacioli/Documents/DIO-AVANADE-2024/ExemploExplorando/obj/Debug/net7.0/ref/ExemploExplorando.dll
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.deps.json
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.runtimeconfig.json
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.dll
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.pdb
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.AssemblyInfo.cs
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.dll
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/refint/ExemploExplorando.dll
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.pdb
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.genruntimeconfig.cache
+/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/Debug/net7.0/ref/ExemploExplorando.dll

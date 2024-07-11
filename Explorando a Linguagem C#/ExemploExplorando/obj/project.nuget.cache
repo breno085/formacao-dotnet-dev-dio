@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jPNxO5T+UE=",
+  "success": true,
+  "projectFilePath": "/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/ExemploExplorando.csproj",
+  "expectedPackageFiles": [
+    "/home/brenoacioli/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/brenoacioli/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/brenoacioli/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/brenoacioli/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
