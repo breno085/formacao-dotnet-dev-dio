@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/ExemploExplorando.csproj",
+      "projectUniqueName": "/home/brenoacioli/Documents/Formação .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/ExemploExplorando.csproj",
       "projectName": "ExemploExplorando",
-      "projectPath": "/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/ExemploExplorando.csproj",
+      "projectPath": "/home/brenoacioli/Documents/Formação .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/ExemploExplorando.csproj",
       "packagesPath": "/home/brenoacioli/.nuget/packages/",
-      "outputPath": "/home/brenoacioli/Documents/Trilha .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/",
+      "outputPath": "/home/brenoacioli/Documents/Formação .NET - DIO/Explorando a Linguagem C#/ExemploExplorando/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/brenoacioli/.nuget/NuGet/NuGet.Config"
@@ -112,26 +112,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.6, 8.0.6]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[8.0.6, 8.0.6]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.6, 8.0.6]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

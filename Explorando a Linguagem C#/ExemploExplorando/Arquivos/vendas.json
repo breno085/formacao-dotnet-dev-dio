@@ -3,12 +3,14 @@
     "Id": 1,
     "Nome_Produto": "Material de escritório",
     "Preco": 25.00,
-    "DataVenda": "2024-07-10T23:43:21.3717685-03:00"
+    "DataVenda": "2024-07-10T23:43:21.3717685-03:00",
+    "Desconto": null
   },
   {
     "Id": 2,
     "Nome_Produto": "Licenca de Software",
     "Preco": 100.00,
-    "DataVenda": "2024-07-10T23:43:21.3717685-03:00"
+    "DataVenda": "2024-07-10T23:43:21.3717685-03:00",
+    "Desconto": 10
   }
 ]

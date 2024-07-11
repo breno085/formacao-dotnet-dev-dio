@@ -2,18 +2,139 @@
 using System.Globalization; // para usar o culture.info e deixar as datas, moeda e hora no padrao pt-BR
 using Newtonsoft.Json;
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+//Utilizando métodos de extensão
+int numero = 20;
+bool par = false;
 
-List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+par = numero.EhPar(); // método de extensão - todos os numeros inteiros terão acesso a esse método
+Console.WriteLine($"O número {numero} é " + (par ? "par" : "ímpar"));
 
-foreach (Venda venda in listaVenda)
-{
-    Console.WriteLine($"Id: {venda.Id}");
-    Console.WriteLine($"Produto: {venda.Produto}");
-    Console.WriteLine($"Preco: {venda.Preco}");
-    Console.WriteLine($"Data: {venda.DataVenda:dd/MM/yyyy HH:mm}");
-}
 
+
+
+
+
+//classe genérica
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+arrayInteiro.AdicionarElementoArray(10);
+
+Console.WriteLine(arrayInteiro[0]);
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoArray("Teste");
+
+Console.WriteLine(arrayString[0]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //variável dinâmica
+// dynamic variavelDinamica = 4;
+
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+// variavelDinamica = "Texto";
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
+// variavelDinamica = true;
+// Console.WriteLine($"Tipo da variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //Tipos anônimos em coleção - o tipo anômino só tem Get, ou seja, é somente leitura, não posso alterá-lo
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// //usa o tipo anônimo quando eu quero somente selecionar o produto e o preco da lista de venda, por exemplo
+// //ao invés de todas as propriedades de Venda
+// var listaAnonimo = listaVenda.Select(x => new {x.Produto, x.Preco});
+
+// foreach (var venda in listaAnonimo)
+// {
+//     Console.WriteLine($"Produto: {venda.Produto}, Preco: {venda.Preco}");
+// }
+
+
+// //Tipos anônimos - O objeto anônimo é somente leitura
+// var tipoAnonimo = new { Nome = "Breno", Sobrenome = "Acioli", Altura = 1.85};
+
+// Console.WriteLine($"Nome: {tipoAnonimo.Nome}");
+// Console.WriteLine($"Sobrenome: {tipoAnonimo.Sobrenome}");
+// Console.WriteLine($"Altura: {tipoAnonimo.Altura}");
+
+
+
+
+
+
+
+
+
+
+
+// //Tipos nulos
+// bool? desejoReceberEmail = null;
+
+// if (desejoReceberEmail.HasValue && desejoReceberEmail.Value)
+// {
+//     Console.WriteLine("O usuário optou por receber email");
+// }
+// else
+// {
+//     Console.WriteLine("O usuário não respondeu ou optou por não receber email");
+// }
+
+
+
+
+
+
+
+
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// foreach (Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}");
+//     Console.WriteLine($"Produto: {venda.Produto}");
+//     Console.WriteLine($"Preco: {venda.Preco}");
+//     Console.WriteLine($"Data: {venda.DataVenda:dd/MM/yyyy HH:mm}");
+//     Console.WriteLine($"{(venda.Desconto.HasValue ? $"Desconto: {venda.Desconto}" : "")}");
+// }
 
 
 
