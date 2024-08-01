@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/brenoacioli/Documents/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj": {}
+    "/home/brenoacioli/Documents/formacao-dotnet-dio/Nuvem com Microsoft Azure/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj": {}
   },
   "projects": {
-    "/home/brenoacioli/Documents/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj": {
+    "/home/brenoacioli/Documents/formacao-dotnet-dio/Nuvem com Microsoft Azure/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/brenoacioli/Documents/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj",
+        "projectUniqueName": "/home/brenoacioli/Documents/formacao-dotnet-dio/Nuvem com Microsoft Azure/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj",
         "projectName": "AzureBlobStorageAPI",
-        "projectPath": "/home/brenoacioli/Documents/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj",
+        "projectPath": "/home/brenoacioli/Documents/formacao-dotnet-dio/Nuvem com Microsoft Azure/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj",
         "packagesPath": "/home/brenoacioli/.nuget/packages/",
-        "outputPath": "/home/brenoacioli/Documents/AzureBlobStorageAPI/obj/",
+        "outputPath": "/home/brenoacioli/Documents/formacao-dotnet-dio/Nuvem com Microsoft Azure/AzureBlobStorageAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/brenoacioli/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xoOH3ttuMd8=",
+  "dgSpecHash": "4Sa6KYrv9Os=",
   "success": true,
-  "projectFilePath": "/home/brenoacioli/Documents/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj",
+  "projectFilePath": "/home/brenoacioli/Documents/formacao-dotnet-dio/Nuvem com Microsoft Azure/AzureBlobStorageAPI/AzureBlobStorageAPI.csproj",
   "expectedPackageFiles": [
     "/home/brenoacioli/.nuget/packages/azure.core/1.41.0/azure.core.1.41.0.nupkg.sha512",
     "/home/brenoacioli/.nuget/packages/azure.storage.blobs/12.21.1/azure.storage.blobs.12.21.1.nupkg.sha512",
