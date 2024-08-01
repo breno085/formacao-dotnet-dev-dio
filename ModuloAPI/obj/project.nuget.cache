@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JRjbQ9yXcPk=",
+  "dgSpecHash": "h+FeJSTyCas=",
   "success": true,
-  "projectFilePath": "/home/brenoacioli/Documents/Formação .NET - DIO/ModuloAPI/ModuloAPI.csproj",
+  "projectFilePath": "/home/brenoacioli/Documents/formacao-dotnet-dio/ModuloAPI/ModuloAPI.csproj",
   "expectedPackageFiles": [
     "/home/brenoacioli/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/brenoacioli/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

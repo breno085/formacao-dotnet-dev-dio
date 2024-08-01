@@ -1,2 +1,2 @@
-Revisão do que foi feito para construção de API, CRUD e Entity Framework
+Revisão do que foi feito para construção de API, CRUD e Entity Framework:  
 [Seção "Trabalhando com API e Entity Framework"](https://web.dio.me/course/entity-framework-e-crud/learning/9553e72e-ac19-4c69-ac3e-2ec445ba7fa3?back=/track/formacao-dotnet-developer&tab=undefined&moduleId=undefined)
