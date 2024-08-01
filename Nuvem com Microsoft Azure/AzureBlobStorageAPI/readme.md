@@ -1,0 +1,2 @@
+API que faz o upload de um Blob = Binary Large Object (Pode ser um vídeo, imagem, audio, texto... qualquer coisa que esteja dentro de um computador praticamente), nesse caso uma imagem, para o meu container na azure (storage account) e que qualquer pessoa (se tiver permissão) pode acessar através de um link.
+A API também pode fazer o download, deletar e listar os arquivos que está no conteiner da Azure.
